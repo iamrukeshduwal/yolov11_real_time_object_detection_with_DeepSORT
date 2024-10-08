@@ -63,7 +63,7 @@
 <ol>
   <li>Clone the repository:</li>
 
-<pre><code>git clone https://github.com/your-username/yolo-object-detection-tracking.git
+<pre><code>git clone https://github.com/iamrukeshduwal/yolov11_real_time_object_detection_with_DeepSORT.git
 cd yolo-object-detection-tracking
 </code></pre>
 
