@@ -64,7 +64,7 @@
   <li>Clone the repository:</li>
 
 <pre><code>git clone https://github.com/iamrukeshduwal/yolov11_real_time_object_detection_with_DeepSORT.git
-cd yolo-object-detection-tracking
+cd yolov11_real_time_object_detection_with_DeepSORT
 </code></pre>
 
   <li>Install the required Python libraries:</li>
